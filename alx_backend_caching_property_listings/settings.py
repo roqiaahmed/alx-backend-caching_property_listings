@@ -80,7 +80,7 @@ DATABASES = {
         "USER": "admin",
         "PASSWORD": "root",
         "HOST": "127.0.0.1",  # Or your PostgreSQL server's IP/hostname
-        "PORT": "5434",
+        "PORT": "5432",  # change to 5434 to connect for a divice
     }
 }
 
